@@ -1,0 +1,19 @@
+{
+    "resources": [
+      {
+        "id": 1,
+        "name": "Resource 1",
+        "devtool" : "Github"
+      },
+      {
+        "id": 2,
+        "name": "Resource 2",
+        "devtool" : "Artifactory"
+      },
+      {
+        "id": 3,
+        "name": "Resource 3",
+        "devtool" : "Jira"
+      }
+    ]
+  }
